@@ -36,7 +36,7 @@ Make sure you have the following installed:
 ## Start The Server
 -Node app.js
 ## Open The App In Your Browser By Going To
--http://localhost:3000
+- http://localhost:3000/
 
 ## Acknowledgements
 -Node.js for the backend framework.
